@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+To-do List using FLutter and Dart.
 
 ## Getting Started
 
